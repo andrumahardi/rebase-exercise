@@ -1,5 +1,6 @@
 # rebase-exercise
-research and development on git rebase
-this is a change
 
-test change again
+research and development on git rebase
+this is change
+
+change again
